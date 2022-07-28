@@ -1,5 +1,6 @@
 # Planet Data Structure Table
 
+<img width="1280" alt="Screen Shot 2022-07-28 at 1 08 13 PM" src="https://user-images.githubusercontent.com/35510088/181631341-46ed003a-04f5-4621-bccb-3ede669ad386.png">
 
 
 This is a table I created using HTML, CSS, and a planet data text file.
