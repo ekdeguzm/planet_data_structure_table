@@ -6,7 +6,7 @@ This is a table I created using HTML, CSS, and a planet data text file.
 
 From The Odin Project's [curriculum](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-tables).
 
-🔗 **Live preview:** [here]()
+🔗 **Live preview:** [here](https://ekdeguzm.github.io/planet_data_structure_table/index.html)
 
 ## Built with
 
